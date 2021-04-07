@@ -1,3 +1,3 @@
-1- Crear database con la url host/PHPtesting/create-database.php
-2- Luego de crear database, iniciar app con la url host/PHPtesting/index.php
-3- El archivo .sql se encuentra en el folder "database"
+1- Create database. url: host/PHPtest/create-database.php
+2- After creating database, init app in url: host/PHPtest/index.php
+3- .sql File is located in folder "database"
